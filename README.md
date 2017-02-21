@@ -1,0 +1,3 @@
+# Rguias
+Este repositorio contiene guías para el análisis de datos en R desde un paradigma de programación funcional. Dentro de ese paradigma tomaremos como fundamento la inmutabilidad de los datos. La idea es aprender a usar R de modo tal que se use el asignador <- una sola vez, al comienzo del análisis y luego hacer toda la manipulación a través funciones declaradas y funciones lambda.
+Estas guías son de acceso público y tienen como objetivo difundir el uso de la plataforma R, especialmente en las ciencias sociales. Sin embargo está estríctamente prohibido incluir el texto o código en publicaciones protegidas por derechos de autor sin autorización del autor. 
